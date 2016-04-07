@@ -18,7 +18,9 @@ The way it works...
   - If you've already endorsed their number one skill, the robot will endorse the next highest. Repeat until there's nothing left.
 
 # Usage
-In `main.js`, edit 
+In `main.js`, replace `[[LINKEDIN_USER_HERE]]` and `[[LINKEDIN_PASS_HERE]]` with your details. Be careful not to commit them to Github or anywhere else.
+
+
 
     ./bin/phantomjs main.js
 (wow so easy)
